@@ -1,132 +1,134 @@
-<div align="center">
+# Hey 👋 I'm Mahesh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,100:1a1a1a&text=MAHESH&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20Creator%20%7C%20UI%20Designer&descAlignY=60" />
+### ⚡ Frontend Developer from India 🇮🇳
 
-# ⚡ DIGITAL CREATOR OF MODERN WEB EXPERIENCES
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Crafting+Next+Generation+Frontend+Experiences;Building+Smooth+%26+Creative+Interfaces;React+Developer+with+Creative+Vision;Obsessed+with+Modern+UI%2FUX+Design;Turning+Ideas+Into+Interactive+Reality" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,nodejs,git,github,vscode,figma&perline=10" />
-
-</div>
+Specializing in React.js, Modern UI/UX, Animations, and Creative Web Experiences 🚀
 
 ---
 
-# 🧬 WHO AM I
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-```javascript id="hjlwmr"
-class Developer {
-  constructor() {
-    this.name = "Mahesh";
-    this.role = "Frontend Developer";
-    this.location = "India";
-    this.focus = [
-      "Creative UI/UX",
-      "React Applications",
-      "Smooth Animations",
-      "Modern Frontend"
-    ];
-  }
+### 👨‍💻 About Me
 
-  build() {
-    return "Beautiful Digital Experiences";
-  }
-}
-
-const me = new Developer();
-```
+* ⚛️ Frontend Developer focused on **React Ecosystem**
+* 🎨 Passionate about **Modern UI/UX Design**
+* 🚀 Building smooth & interactive web experiences
+* 📱 Specialized in **Responsive Websites**
+* 🌱 Currently learning **Advanced React & Full Stack Development**
+* 💡 Love combining creativity with clean code
+* 🎯 Goal: Become an elite frontend engineer
+* ☕ Turning coffee into code since day one
 
 ---
 
-# 🌌 DEVELOPER DNA
+# 🌐 Connect With Me
 
-<div align="center">
-
-| Skill                | Power            |
-| -------------------- | ---------------- |
-| ⚛️ React             | ████████████ 95% |
-| 🎨 UI Design         | ███████████ 92%  |
-| ⚡ JavaScript         | ██████████ 90%   |
-| 🚀 Animations        | ███████████ 94%  |
-| 📱 Responsive Design | ████████████ 96% |
-
-</div>
-
----
-
-# 🚀 CURRENTLY BUILDING
-
-```txt id="i0g4x7"
-┣━━ ⚡ Animated Web Interfaces
-┣━━ 🎨 Premium UI Components
-┣━━ 📱 Mobile Responsive Layouts
-┣━━ 🔥 Creative Frontend Projects
-┗━━ 🚀 Modern React Experiences
-```
-
----
-
-# 🛰️ GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=github_dark" />
-
-</div>
-
----
-
-# ⚒️ TECH ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
-
-</div>
-
----
-
-# 🎯 2026 GOALS
-
-```txt id="5i6n8y"
-[✓] Master React Ecosystem
-[✓] Build Advanced UI Systems
-[✓] Create Premium Portfolio
-[ ] Become Full Stack Developer
-[ ] Work on Big Real-World Projects
-[ ] Open Source Contributions
-```
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/YOURUSERNAME">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+<a href="https://github.com/YOURUSERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-</div>
+<a href="https://linkedin.com/in/YOURUSERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://twitter.com/YOURUSERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+</p>
+
+---
+
+# 🚀 Languages & Tools
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,vite" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# ⚡ Current Focus
+
+```javascript
+const mahesh = {
+  code: ["JavaScript", "React", "TypeScript"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB", "MySQL"],
+  },
+  currentFocus: "Building Premium Frontend Experiences",
+};
+```
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-## ⚡ "Great UI is invisible. Great UX is unforgettable."
+### ⚡ "Design is intelligence made visible."
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:1a1a1a"/>
