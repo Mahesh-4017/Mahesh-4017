@@ -24,11 +24,11 @@ Specializing in React.js, Modern UI/UX, Animations, and Creative Web Experiences
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOURUSERNAME" target="blank">
+<a href="https://github.com/Mahesh-4017" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://linkedin.com/in/YOURUSERNAME" target="blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahesh-215bb9385/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -50,7 +50,7 @@ Specializing in React.js, Modern UI/UX, Animations, and Creative Web Experiences
 ### Backend & Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase" />
 </p>
 
 ### Tools & Platforms
@@ -64,9 +64,9 @@ Specializing in React.js, Modern UI/UX, Animations, and Creative Web Experiences
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mahesh-4017&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-4017&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Specializing in React.js, Modern UI/UX, Animations, and Creative Web Experiences
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-4017&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Specializing in React.js, Modern UI/UX, Animations, and Creative Web Experiences
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mahesh-4017&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -90,7 +90,7 @@ Specializing in React.js, Modern UI/UX, Animations, and Creative Web Experiences
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Mahesh-4017/Mahesh-4017/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ const mahesh = {
   code: ["JavaScript", "React", "TypeScript"],
   technologies: {
     frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express"],
+    backend: ["Node.js"],
     database: ["MongoDB", "MySQL"],
   },
   currentFocus: "Building Premium Frontend Experiences",
