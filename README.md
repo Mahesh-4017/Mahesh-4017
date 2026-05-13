@@ -13,10 +13,6 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Mahesh-4017&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Mahesh-4017?label=Followers&style=flat-square&color=58A6FF)](https://github.com/Mahesh-4017)
-
 </div>
 
 ---
