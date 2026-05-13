@@ -39,77 +39,30 @@ Specializing in React.js, Modern UI/UX, Animations, and Creative Web Experiences
 
 ---
 
-# 🎮 GitHub Arcade
+# 🕹️ Visitor Counter Quest
 
 <p align="center">
 
-<a href="https://github.com/Mahesh-4017">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</a>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mahesh-4017&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Mahesh-4017/Mahesh-4017/output/github-contribution-grid-snake.svg" />
+<img src="https://komarev.com/ghpvc/?username=Mahesh-4017&label=Players%20Visited&color=111111&style=for-the-badge" />
 
 </p>
 
-<h3 align="center">🕹️ Visitor Mission</h3>
+```txt id="xofehm"
+🎮 QUEST BOARD
 
-<p align="center">
-⭐ Explore repositories <br>
-🐍 Feed the snake with contributions <br>
-🏆 Unlock developer achievements
-</p>
++1 XP  → Visit profile
++5 XP  → Explore repositories
++10 XP → Star a project
++50 XP → Follow the developer
 
-
-### Backend & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahesh-4017&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-4017&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-4017&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
+Current Mission:
+Become part of the journey 🚀
+```
 
 # 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Mahesh-4017&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mahesh-4017/Mahesh-4017/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
