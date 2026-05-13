@@ -39,13 +39,32 @@ Specializing in React.js, Modern UI/UX, Animations, and Creative Web Experiences
 
 ---
 
-# 🚀 Languages & Tools
+# 🎮 GitHub Arcade
 
-### Frontend
+<p align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,vite" />
+<a href="https://github.com/Mahesh-4017">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</a>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mahesh-4017&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Mahesh-4017/Mahesh-4017/output/github-contribution-grid-snake.svg" />
+
 </p>
+
+<h3 align="center">🕹️ Visitor Mission</h3>
+
+<p align="center">
+⭐ Explore repositories <br>
+🐍 Feed the snake with contributions <br>
+🏆 Unlock developer achievements
+</p>
+
 
 ### Backend & Database
 
