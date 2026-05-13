@@ -1,83 +1,120 @@
 <div align="center">
 
-# ⚡ MAHESH
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,100:1a1a1a&text=MAHESH&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20Creator%20%7C%20UI%20Designer&descAlignY=60" />
 
-### Frontend Developer • UI Crafter • React Enthusiast
+# ⚡ DIGITAL CREATOR OF MODERN WEB EXPERIENCES
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Creating+Smooth+UI+Animations;React+%2B+Tailwind+Developer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Crafting+Next+Generation+Frontend+Experiences;Building+Smooth+%26+Creative+Interfaces;React+Developer+with+Creative+Vision;Obsessed+with+Modern+UI%2FUX+Design;Turning+Ideas+Into+Interactive+Reality" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,vite,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,nodejs,git,github,vscode,figma&perline=10" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🧬 WHO AM I
 
-```js
-const mahesh = {
-  location: "Haryana, India",
-  education: "BCA Student",
-  currentlyLearning: ["React", "Animations", "Frontend Architecture"],
-  interests: ["Modern UI", "Creative Websites", "Performance"],
-  lifePhilosophy: "Build. Learn. Repeat."
-};
+```javascript id="hjlwmr"
+class Developer {
+  constructor() {
+    this.name = "Mahesh";
+    this.role = "Frontend Developer";
+    this.location = "India";
+    this.focus = [
+      "Creative UI/UX",
+      "React Applications",
+      "Smooth Animations",
+      "Modern Frontend"
+    ];
+  }
+
+  build() {
+    return "Beautiful Digital Experiences";
+  }
+}
+
+const me = new Developer();
 ```
 
 ---
 
-# 🚀 What I Build
-
-✨ Responsive Websites
-⚡ Smooth Animated Interfaces
-🎨 Clean & Modern UI Design
-📱 Mobile Friendly Experiences
-🔥 Fast Frontend Applications
-
----
-
-# 📊 GitHub Universe
+# 🌌 DEVELOPER DNA
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&hide_border=true" />
+| Skill                | Power            |
+| -------------------- | ---------------- |
+| ⚛️ React             | ████████████ 95% |
+| 🎨 UI Design         | ███████████ 92%  |
+| ⚡ JavaScript         | ██████████ 90%   |
+| 🚀 Animations        | ███████████ 94%  |
+| 📱 Responsive Design | ████████████ 96% |
 
 </div>
 
 ---
 
-# 🌌 Current Mission
+# 🚀 CURRENTLY BUILDING
 
-```txt
-[██████████████████░░] 90%
-
-Becoming a high-level frontend developer.
+```txt id="i0g4x7"
+┣━━ ⚡ Animated Web Interfaces
+┣━━ 🎨 Premium UI Components
+┣━━ 📱 Mobile Responsive Layouts
+┣━━ 🔥 Creative Frontend Projects
+┗━━ 🚀 Modern React Experiences
 ```
 
 ---
 
-# ⚙️ Dev Setup
+# 🛰️ GITHUB ANALYTICS
 
-```txt
-💻 VS Code
-🎨 Tailwind CSS
-⚛️ React.js
-🚀 Vite
-☕ Coffee Powered
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=github_dark" />
+
+</div>
+
+---
+
+# ⚒️ TECH ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
+
+</div>
+
+---
+
+# 🎯 2026 GOALS
+
+```txt id="5i6n8y"
+[✓] Master React Ecosystem
+[✓] Build Advanced UI Systems
+[✓] Create Premium Portfolio
+[ ] Become Full Stack Developer
+[ ] Work on Big Real-World Projects
+[ ] Open Source Contributions
 ```
 
 ---
 
-# 📫 Connect
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/YOURUSERNAME">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -86,6 +123,10 @@ Becoming a high-level frontend developer.
 
 <div align="center">
 
-### ⚡ "Design. Develop. Dominate."
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+## ⚡ "Great UI is invisible. Great UX is unforgettable."
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:1a1a1a"/>
