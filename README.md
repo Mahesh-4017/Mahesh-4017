@@ -16,29 +16,39 @@
 </div>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-## 🧑‍💻 Who Am I?
+## 📌 About Me
+- 🚀 Passionate Web Developer crafting modern and responsive web experiences.
+- 💻 Building clean UI, smooth animations, and scalable frontend projects.
+- ⚡ React Developer focused on performance, creativity, and user experience.
+- 🌐 Turning ideas into interactive and visually appealing websites.
+- 🎯 Frontend Developer | React Enthusiast | Lifelong Learner
+- 🛠️ Creating modern web apps with clean code and creative design.
+- ✨ Developer focused on elegant UI, responsive layouts, and smooth UX.
+- 🔥 Building digital experiences that are fast, functional, and modern.
+- 👨‍💻 Self-taught developer passionate about frontend development and design.
+- 🚀 Code • Create • Innovate
 
-```js
-const mahesh = {
-  location   : "India 🇮🇳",
-  role       : "Frontend Developer",
-  focus      : ["React.js", "Next.js", "Modern UI/UX"],
-  currentGoal: "Become an elite full-stack engineer 🎯",
-  funFact    : "I turn ☕ coffee into beautiful UIs",
-  status     : "Open to opportunities 🚀",
-};
-```
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Mahesh-4017">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahesh-4017&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="Mahesh-4017's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Mahesh-4017&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="Mahesh-4017's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Mahesh-4017&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mahesh's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-4017&theme=gruvbox&radius=10" alt="Mahesh-4017's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-- ⚛️ Passionate about the **React Ecosystem**
-- 🎨 Love crafting **pixel-perfect**, responsive interfaces
-- 🌱 Currently leveling up in **Advanced React & Full Stack**
-- 💡 I believe great design is **felt**, not just seen
-- 🤝 Always excited to collaborate on creative projects
 
----
-
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
 ### ⚡ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -65,66 +75,32 @@ const mahesh = {
 
 ---
 
-## 📊 GitHub Stats
+
+
+![Top language](https://stats.pphat.top/languages?username=Mahesh-4017)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahesh-sain/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahesh's LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:sain903481@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mahesh's Email"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://mahesh-portfolio-01.netlify.app/">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Mahesh's Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahesh-4017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-4017&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-4017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mahesh-4017&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-4017&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
-
-</div>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-<div align="center">
-
-**⚡ "People ignore design that ignores people." — Frank Chimero**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:1a1a2e&fontColor=ffffff" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
