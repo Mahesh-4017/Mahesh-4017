@@ -1,106 +1,270 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ██╗  ██╗███████╗███████╗██╗  ██╗
-████╗ ████║██╔══██╗██║  ██║██╔════╝██╔════╝██║  ██║
-██╔████╔██║███████║███████║█████╗  ███████╗███████║
-██║╚██╔╝██║██╔══██║██╔══██║██╔══╝  ╚════██║██╔══██║
-██║ ╚═╝ ██║██║  ██║██║  ██║███████╗███████║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+Engineer+%E2%9A%9B%EF%B8%8F;UI+%2F+UX+Enthusiast+%F0%9F%8E%A8;Building+the+Web%2C+One+Component+at+a+Time" alt="Typing SVG" />
+<img src="./assets/mahesh.png" width="160" height="160" alt="Mahesh Sain"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=%3E+MAHESH+SAIN;FULL+STACK+DEVELOPER;MERN+STACK+DEVELOPER;REACT+%7C+NEXT.JS+%7C+NODE.JS;BUILDING+THE+WEB+FROM+FRONTEND+TO+BACKEND" alt="Typing Animation"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" width="100%"/>
 
 </div>
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 🚀 Passionate Web Developer crafting modern and responsive web experiences.
-- 💻 Building clean UI, smooth animations, and scalable frontend projects.
-- ⚡ React Developer focused on performance, creativity, and user experience.
-- 🌐 Turning ideas into interactive and visually appealing websites.
-- 🎯 Frontend Developer | React Enthusiast | Lifelong Learner
-- 🛠️ Creating modern web apps with clean code and creative design.
-- ✨ Developer focused on elegant UI, responsive layouts, and smooth UX.
-- 🔥 Building digital experiences that are fast, functional, and modern.
-- 👨‍💻 Self-taught developer passionate about frontend development and design.
-- 🚀 Code • Create • Innovate
+<div align="center">
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Mahesh-4017">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahesh-4017&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="Mahesh-4017's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Mahesh-4017&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="Mahesh-4017's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Mahesh-4017&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mahesh's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-4017&theme=gruvbox&radius=10" alt="Mahesh-4017's Activity Graph" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    SYSTEM INITIALIZED                        ║
+║                                                              ║
+║  USER       : MAHESH SAIN                                    ║
+║  ROLE       : FULL STACK DEVELOPER                           ║
+║  SPECIALTY  : MERN STACK                                     ║
+║  STATUS     : ONLINE ●                                       ║
+║  LOCATION   : INDIA                                          ║
+║                                                              ║
+║  FRONTEND   : React • Next.js • TypeScript                   ║
+║  BACKEND    : Node.js • Express.js                          ║
+║  DATABASE   : MongoDB • MySQL                                ║
+║                                                              ║
+║  > BUILDING DIGITAL EXPERIENCES...                           ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
+</div>
 
-## 🛠️ Languages & Tools
+# 🟢 `~/whoami`
 
-### ⚡ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```bash
+$ whoami
 
-### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+Mahesh Sain
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+$ role
+
+Full Stack Developer
+
+$ mission
+
+Build modern, scalable and high-performance web applications.
+
+$ mindset
+
+Learn → Build → Improve → Repeat 🚀
+```
+
+I'm a **Full Stack Developer** passionate about building modern web applications, responsive interfaces, scalable backend systems, and smooth user experiences.
+
+I enjoy working across the complete development lifecycle — from designing interfaces and building React applications to developing APIs, authentication systems, databases, and deployment workflows.
+
+```text
+Frontend
+    │
+    ▼
+React / Next.js
+    │
+    ▼
+API Layer
+    │
+    ▼
+Node.js / Express
+    │
+    ▼
+Database
+    │
+    ▼
+MongoDB / MySQL
+```
 
 ---
 
+# 🟢 `~/skills`
 
+## ⚡ Frontend
 
-![Top language](https://stats.pphat.top/languages?username=Mahesh-4017)
-<br/>
+<p align="left">
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahesh-sain/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahesh's LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 
-  <a href="mailto:sain903481@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mahesh's Email"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://mahesh-portfolio-01.netlify.app/">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Mahesh's Portfolio"/>
-  </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+## 🔥 Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+
 </p>
 
+## 🗄️ Database
 
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+</p>
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,cloudinary" />
+
+</p>
+
+---
+
+# 🟢 `~/tech-stack`
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+
+| Layer             | Technologies                              |
+| ----------------- | ----------------------------------------- |
+| 🎨 UI             | HTML • CSS • Tailwind CSS                 |
+| ⚡ Frontend        | JavaScript • TypeScript • React • Next.js |
+| 🧠 State          | Zustand                                   |
+| 🔌 Backend        | Node.js • Express.js                      |
+| 🔐 Authentication | JWT • Firebase • NextAuth                 |
+| 🗄️ Database      | MongoDB • MySQL • Prisma                  |
+| ☁️ Cloud          | Firebase • Vercel • Cloudinary            |
+| 🧰 Tools          | Git • GitHub • VS Code • Postman • Figma  |
+
+</div>
+
+---
+
+# 🟢 `~/github-stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahesh-4017&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41"/>
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=Mahesh-4017&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-4017&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+# 🟢 `~/contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🟢 `~/currently`
+
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  🔭 WORKING ON       Full Stack Projects        │
+│                                                 │
+│  🌱 LEARNING         Advanced Next.js           │
+│                                                 │
+│  ⚡ IMPROVING        Backend Architecture       │
+│                                                 │
+│  🎨 EXPLORING        UI / UX & Animation        │
+│                                                 │
+│  🎮 INTERESTED IN    Game Development           │
+│                                                 │
+│  💬 ASK ME ABOUT     React / MERN / JavaScript  │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+# 🟢 `~/github-trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mahesh-4017&theme=matrix&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-4017&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" alt="Top Languages"/>
+
+</div>
+
+---
+
+# 🟢 `~/terminal`
+
+```text
+┌──(mahesh㉿developer)-[~/projects]
+└─$ npm run build
+
+> building frontend...
+> compiling backend...
+> connecting database...
+> optimizing application...
+> checking components...
+
+████████████████████████████████████████ 100%
+
+✓ Build successful
+
+┌─────────────────────────────────────┐
+│                                     │
+│   APPLICATION READY 🚀              │
+│                                     │
+│   STATUS      : ONLINE              │
+│   DEVELOPER   : MAHESH SAIN         │
+│   STACK       : MERN                │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+---
+
+# 🟢 `~/connect`
+
+<div align="center">
+
+<a href="https://github.com/Mahesh-4017">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahesh-sain/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
+</a>
+
+<a href="https://mahesh-portfolio-01.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF41" alt="Portfolio"/>
+</a>
+
+<a href="mailto:sain903481@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Thanks+for+visiting+my+profile+%F0%9F%91%8B;%3E+Keep+Coding...+Keep+Building...+%F0%9F%9A%80;%3E+See+you+in+the+next+commit!" alt="Closing Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%" alt="Footer"/>
+
 </div>
