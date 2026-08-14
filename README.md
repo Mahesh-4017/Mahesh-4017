@@ -1,38 +1,19 @@
 <div align="center">
 
-<img src="./assets/mahesh.png" width="160" height="160" alt="Mahesh Sain"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+BOOTING...+%5D;%3E+MAHESH+SAIN;%3E+FULL+STACK+DEVELOPER;%3E+MERN+STACK+DEVELOPER;%3E+REACT+%7C+NEXT.JS+%7C+NODE.JS;%3E+SYSTEM+STATUS%3A+ONLINE+%E2%97%8F"
+  alt="Hacker Developer Animation"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=%3E+MAHESH+SAIN;FULL+STACK+DEVELOPER;MERN+STACK+DEVELOPER;REACT+%7C+NEXT.JS+%7C+NODE.JS;BUILDING+THE+WEB+FROM+FRONTEND+TO+BACKEND" alt="Typing Animation"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF41"
+  width="100%"
+  alt="Neon Divider"
+/>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM INITIALIZED                        ║
-║                                                              ║
-║  USER       : MAHESH SAIN                                    ║
-║  ROLE       : FULL STACK DEVELOPER                           ║
-║  SPECIALTY  : MERN STACK                                     ║
-║  STATUS     : ONLINE ●                                       ║
-║  LOCATION   : INDIA                                          ║
-║                                                              ║
-║  FRONTEND   : React • Next.js • TypeScript                   ║
-║  BACKEND    : Node.js • Express.js                          ║
-║  DATABASE   : MongoDB • MySQL                                ║
-║                                                              ║
-║  > BUILDING DIGITAL EXPERIENCES...                           ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -87,7 +68,7 @@ MongoDB / MySQL
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend Skills"/>
 
 </p>
 
@@ -95,7 +76,7 @@ MongoDB / MySQL
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="Backend Skills"/>
 
 </p>
 
@@ -103,7 +84,7 @@ MongoDB / MySQL
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database Skills"/>
 
 </p>
 
@@ -111,28 +92,9 @@ MongoDB / MySQL
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,cloudinary" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,cloudinary" alt="Tools and Platforms"/>
 
 </p>
-
----
-
-# 🟢 `~/tech-stack`
-
-<div align="center">
-
-| Layer             | Technologies                              |
-| ----------------- | ----------------------------------------- |
-| 🎨 UI             | HTML • CSS • Tailwind CSS                 |
-| ⚡ Frontend        | JavaScript • TypeScript • React • Next.js |
-| 🧠 State          | Zustand                                   |
-| 🔌 Backend        | Node.js • Express.js                      |
-| 🔐 Authentication | JWT • Firebase • NextAuth                 |
-| 🗄️ Database      | MongoDB • MySQL • Prisma                  |
-| ☁️ Cloud          | Firebase • Vercel • Cloudinary            |
-| 🧰 Tools          | Git • GitHub • VS Code • Postman • Figma  |
-
-</div>
 
 ---
 
@@ -140,9 +102,7 @@ MongoDB / MySQL
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahesh-4017&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41"/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=Mahesh-4017&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Mahesh-4017&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Mahesh GitHub Streak"/>
 
 </div>
 
@@ -156,11 +116,12 @@ MongoDB / MySQL
 
 ---
 
+
 # 🟢 `~/contributions`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -192,46 +153,13 @@ MongoDB / MySQL
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mahesh-4017&theme=matrix&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+<img
+  src="https://github-profile-trophy.screw-hand.vercel.app/?username=Mahesh-4017&theme=matrix&no-frame=true&no-bg=true&column=6"
+  width="100%"
+  alt="Mahesh GitHub Trophies"
+/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-4017&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🟢 `~/terminal`
-
-```text
-┌──(mahesh㉿developer)-[~/projects]
-└─$ npm run build
-
-> building frontend...
-> compiling backend...
-> connecting database...
-> optimizing application...
-> checking components...
-
-████████████████████████████████████████ 100%
-
-✓ Build successful
-
-┌─────────────────────────────────────┐
-│                                     │
-│   APPLICATION READY 🚀              │
-│                                     │
-│   STATUS      : ONLINE              │
-│   DEVELOPER   : MAHESH SAIN         │
-│   STACK       : MERN                │
-│                                     │
-└─────────────────────────────────────┘
-```
 
 ---
 
