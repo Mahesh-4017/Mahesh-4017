@@ -53,28 +53,46 @@ Git · GitHub · VS Code · Postman · npm · Vercel · Netlify · Figma
 
 ---
 
-## 📊 GitHub
+## 💼 Experience
 
-<div align="center">
+**React & React Native Developer — KBS-IT Solutions**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahesh-4017&show_icons=true&hide_border=true&theme=github_dark" width="48%" />
+6 months of training followed by continued employment, working on real-world web and mobile applications.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-4017&layout=compact&hide_border=true&theme=github_dark" width="48%" />
-
-</div>
+My work includes **feature development, reusable components, API integration, authentication, debugging, testing, and deployment**.
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Education
 
-If you're interested in **web development, mobile apps, or collaborating on a project**, feel free to connect.
+**Bachelor of Computer Applications (BCA)**
+Kurukshetra University
 
-**Portfolio:** [mahesh-portfolio-01.netlify.app](https://mahesh-portfolio-01.netlify.app/)
-**LinkedIn:** [linkedin.com/in/mahesh-sain](https://www.linkedin.com/in/mahesh-sain)
-**Email:** [sain903481@gmail.com](mailto:sain903481@gmail.com)
+---
+
+## 📌 Currently
+
+```text
+⚛️ Building with React & React Native
+🚀 Improving full-stack development skills
+🎨 Creating better UI/UX experiences
+📚 Learning and experimenting with modern technologies
+```
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+If you're interested in **building something together**, feel free to reach out.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mahesh-portfolio-01.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mahesh-sain)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sain903481@gmail.com)
+
+<br/>
+
+**Thanks for visiting my profile! ⭐**
 
 </div>
